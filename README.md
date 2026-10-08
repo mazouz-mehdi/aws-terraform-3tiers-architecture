@@ -22,4 +22,4 @@ Vous trouverez dans ce dépôt :
 2. Mon **rapport de projet complet au format PDF**, qui inclut le détail de mes configurations de sécurité, les preuves de déploiement et ma gestion des incidents (troubleshooting).
 
 ---
-*Projet réalisé par Mehdi - www.linkedin.com/in/mehdi-mazouz-936536205
+Projet réalisé par Mehdi - www.linkedin.com/in/mehdi-mazouz-936536205
