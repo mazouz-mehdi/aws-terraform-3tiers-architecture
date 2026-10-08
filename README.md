@@ -2,7 +2,7 @@
 
 Bienvenue sur le dépôt de mon projet d'infrastructure Cloud ! 
 
-Ce projet personnel est le fruit de ma curiosité et de ma volonté de monter en compétences sur les technologies Cloud et DevOps. Il démontre ma capacité à initialiser, sécuriser et déployer de A à Z une infrastructure robuste sur Amazon Web Services (AWS) via l'approche "Infrastructure as Code" (IaC).
+Ce projet personnel est le fruit de ma curiosité et de ma volonté de monter en compétences sur les technologies Cloud et DevOps. Il démontre ma capacité à initialiser, sécuriser et déployer de A à Z une infrastructure  sur Amazon Web Services (AWS) via l'approche "Infrastructure as Code" (IaC).
 
 ## 🎯 Objectifs du projet
 - **Sécurité (Zero Trust) :** Conception d'un VPC sur-mesure avec segmentation stricte (sous-réseaux publics/privés).
